@@ -1,0 +1,2 @@
+add SAVE and LOAD game progress function.
+using [Serializable] and BinaryFormatter.
